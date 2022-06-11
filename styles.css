@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Courier Prime', monospace;
+    color: white;
+
+}
+
+body{
+    background-image: url("images/backgrounds/title-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 0;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+
+.header ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    gap: 16px;
+}
+
+#title-section{
+    margin-top: 100px;
+    border-bottom: 2px solid white;
+
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    margin: 200px 15% 0px 15%;
+    padding-left: 0;
+    border-left: 0;
+    border-top: 2px solid white;
+}
+#contacts-list{
+    padding: 0;
+}
+
+.section{
+    
+    margin:200px 20% 200px 20%;
+    padding: 16px;
+    border-left: 2px solid white;
+    /* border-bottom: 2px solid white; */
+}
+
+.project{
+    margin: 10px;
+    width: 300px;
+    padding: 16px;
+    border-left: 2px solid white;
+    border-bottom: 2px solid white;
+
+}
+.project:hover{
+    background-color: rgba(0, 0, 0, 0.151);
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 0;
+    padding: 1%;
+}
+.subtitle{
+    font-size: 28px;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    font-size:52px;
+}
+h2{
+    font-size: 36px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(0, 225, 255);
+}
