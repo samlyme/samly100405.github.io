@@ -8,7 +8,8 @@
 body{
     background-image: url("images/backgrounds/title-background.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
+    background-attachment:fixed;
 
     padding: 0;
 }
@@ -31,8 +32,20 @@ body{
 #title-section{
     margin-top: 100px;
     border-bottom: 2px solid white;
-
+    animation: titleEnter 1s ease 0s 1 normal forwards;
 }
+@keyframes titleEnter {
+	0% {
+		opacity: 0;
+		transform: translateX(-250px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+
 #footer{
     display: flex;
     justify-content: space-between;
@@ -41,6 +54,9 @@ body{
     padding-left: 0;
     border-left: 0;
     border-top: 2px solid white;
+}
+#footer:hover{
+    background-color: rgb(0,0,0,0);
 }
 #contacts-list{
     padding: 0;
@@ -53,6 +69,9 @@ body{
     border-left: 2px solid white;
     /* border-bottom: 2px solid white; */
 }
+.section:hover{
+    background-color: rgba(0, 0, 0, 0.205);
+}
 
 .project{
     margin: 10px;
@@ -63,9 +82,9 @@ body{
 
 }
 .project:hover{
-    background-color: rgba(0, 0, 0, 0.151);
+    background-color: rgba(0, 0, 0, 0.349);
 }
-.container{
+.project-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -73,6 +92,7 @@ body{
     margin: 0;
     padding: 1%;
 }
+
 .subtitle{
     font-size: 28px;
 }
