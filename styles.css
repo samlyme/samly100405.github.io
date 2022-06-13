@@ -90,6 +90,7 @@ body{
 }
 
 .project{
+    display: block;
     margin: 10px;
     width: 300px;
     padding: 16px;
@@ -105,12 +106,14 @@ body{
 }
 .project-container{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: stretch;
+    justify-content: flex-start;
+    align-items: flex-start;
     margin: 0;
     padding: 1%;
 }
+
 
 .subtitle{
     font-size: 28px;
