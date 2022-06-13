@@ -51,7 +51,11 @@ body{
 }
 #title-section:hover{
     background-color: rgb(0,0,0,0);
+    /* TODO:
+        - Add animation for different ways to contact me on side; */
 }
+
+
 
 #footer{
     display: flex;
@@ -62,6 +66,8 @@ body{
     border-left: 0;
     border-top: 2px solid white;
 }
+
+
 #footer:hover{
     background-color: rgb(0,0,0,0);
 }
