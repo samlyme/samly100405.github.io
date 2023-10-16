@@ -1,3 +1,3 @@
 # samly
 
-This is my personal website, hope you enjoy!
+This site has been moved to <www.samly.me>.
