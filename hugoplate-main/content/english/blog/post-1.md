@@ -3,10 +3,10 @@ title: "Imperative vs Declarative Code"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "https://external-preview.redd.it/vC0o6qZu4OlzXFzwQoTRltJ85JT0of4o2Zq5DUAa8wA.jpg?auto=webp&s=15b395e11d37dc36733eccd8f40a5530b502852b"
 categories: ["Software Engineering"]
 author: "Sam Ly"
-tags: ["programming-paradigms"]
+tags: ["Programming Paradigms"]
 draft: false
 ---
 
@@ -42,7 +42,7 @@ The first example is imperative because you are instructing the computer to iter
 
 The second example is declarative because you tell the computer to print out each item in the array `arr`. The code "knows" the end goal, and the you place trust in the computer that it knows how to handle that goal.
 
-## Pros and cons with declarative code
+## Pros and cons of each
 
 Because imperative code places trust in the developer, it is more prone to human error.
 

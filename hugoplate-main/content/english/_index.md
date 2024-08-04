@@ -47,7 +47,7 @@ features:
     content: "I don't only do robotics. Here are some of the other projects I've worked on:"
     bulletpoints:
       - "IntelliLearn: Developed a deployable, self-hosted AI application designed for education using Alpaca and Django."
-      - "Icereak: Developed a scalable backend using ExpressJS."
+      - "Icebreak: Developed a scalable backend using ExpressJS."
     button:
       enable: false
       label: ""
