@@ -18,7 +18,7 @@ Imagine you have a robot that can make you sandwiches. You tell the robot "make 
 
 If instead, you told the robot "Put a piece of bread on a plate. Spread peanut butter on that piece of bread. Get another piece of bread and put it on the plate. Spread jelly on that piece of bread. Put the pieces of bread together." the command that you gave the robot was **imperative** because the robot does not know what the end goal is, and is just following your instructions.
 
-**Imperative code places the trust to achieve an end goal on the developer, while declarative code places the trust to achieve an end goal on the computer.**
+When writing imperative code, you are **instructing** the computer to get it to perform a task, while with declarative code, you are **describing** the task, or in other words, *declaring* the your intent. 
 
 ## Example
 
@@ -159,7 +159,7 @@ export default function findGCD(num1, num2) {
 
 Here, the functionality for finding GCD is abstracted into a function. The name of the function gives other devs a clear indication to the "end goal" of the function. Other devs can now declaratively state that they would like the GCD between two numbers, without having to understand the implementation themselves.
 
-**By abstracting away code complexity, we make our code "more declarative".**
+**In a sense, by abstracting away code complexity, we make our code "more declarative". However, this code can't be considered truly declarative.**
 
 ### Abstraction Cont
 
