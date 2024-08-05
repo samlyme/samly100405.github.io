@@ -1,5 +1,6 @@
 Thumbs.db
 .DS_Store
+.obsidian
 .dist
 .tmp
 .lock
