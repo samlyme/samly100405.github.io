@@ -13,7 +13,7 @@ banner:
 features:
   - title: "About Me"
     image: "/images/service-1.png"
-    content: "I am a Computer Science student persuing a minor in Mathematics."
+    content: "I am a Computer Science student pursuing a minor in Mathematics."
     bulletpoints:
       - "I am extremely passionate about what I study. I love learning about high level concepts in any quantitative field, whether that be math, computer science, or engineering."
       - "I love working with equally passionate peers on large scale projects."
