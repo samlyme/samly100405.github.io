@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "My name is Sam Ly."
-  content: "I am a Computer Science student at Cal Poly Pomona."
+  content: "I am a Math and Computer Science student."
   image: "/images/banner.png"
   button:
     enable: true
@@ -21,8 +21,8 @@ features:
       - "I am extremely curious. Finding a working solution is almost never enough. I always find the motivations and reasoning behind solutions."
     button:
       enable: true
-      label: "View My socials"
-      link: "#"
+      label: "More about me"
+      link: "/about"
 
   - title: "My Experience"
     image: "/images/service-2.png"
@@ -49,7 +49,7 @@ features:
       - "IntelliLearn: Developed a deployable, self-hosted AI application designed for education using Alpaca and Django."
       - "Icebreak: Developed a scalable backend using ExpressJS."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Check out my blog"
+      link: "/blog"
 ---
