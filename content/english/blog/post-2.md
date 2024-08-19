@@ -10,7 +10,7 @@ tags: ["Unix Configuration"]
 draft: false
 ---
 
-[Watch full video here.](https://www.youtube.com/watch?v=8PRP1Z5s2WY)
+## [Watch accompanying video here.](https://www.youtube.com/watch?v=8PRP1Z5s2WY)
 
 #  The best beginner zsh configuration
 
