@@ -2,7 +2,7 @@
 title: "Imperative vs Declarative Code"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-04-04
 image: "https://external-preview.redd.it/vC0o6qZu4OlzXFzwQoTRltJ85JT0of4o2Zq5DUAa8wA.jpg?auto=webp&s=15b395e11d37dc36733eccd8f40a5530b502852b"
 categories: ["Software Engineering"]
 author: "Sam Ly"
