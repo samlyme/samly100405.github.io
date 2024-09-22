@@ -21,6 +21,11 @@ name = "Contact"
 pageRef = "/contact"
 weight = 4
 
+[[main]]
+name = "Resume"
+pageRef = "/resume"
+weight = 5
+
 # footer menu
 [[footer]]
 name = "Home"
@@ -41,3 +46,8 @@ weight = 3
 name = "Contact"
 pageRef = "/contact"
 weight = 4
+
+[[footer]]
+name = "Resume"
+pageRef = "/resume"
+weight = 5
