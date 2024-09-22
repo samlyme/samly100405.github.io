@@ -6,4 +6,4 @@ image: "/images/professional_portrait.jpeg"
 draft: false
 ---
 
-### [View my resume here](https://docs.google.com/document/d/1Gvy9fPFFGxUZ-VaEnQmMHCIK1VuX06u9ldixfJzkmlQ/edit?usp=sharing)
+### [View my resume here](https://drive.google.com/file/d/1EqJ3z8OF_HvsNAAX3h3JxJKCn9xZVead/view?usp=drive_link)
